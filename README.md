@@ -1,4 +1,4 @@
-# Data Analytics Assignment 1 — Classification & Ensemble Learning
+# Crime Analytics — Classification & Ensemble Learning
 
 > **Educational machine-learning project:** exploratory data analysis, a Naive Bayes classifier implemented from scratch, standard classifiers, and a hard-voting ensemble for binary classification.
 
